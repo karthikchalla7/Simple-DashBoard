@@ -5,7 +5,7 @@ This dashboard is created using Tableau where I have used a chess dataset to ana
 It is quite a challenging dataset I tried my best to visualize it.
 
 Below is the dashboard link.
-https://public.tableau.com/app/profile/challa.karthikeya.reddy/viz/chess_dashboard/Dashboard1
+https://public.tableau.com/app/profile/challa.karthikeya.reddy/viz/chess_dashboard/Dashboard1 <br>
 Dataset Link:
 https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king/
 
