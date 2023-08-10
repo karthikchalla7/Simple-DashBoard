@@ -1,6 +1,6 @@
 # Simple-Dashboard
 This is a Simple Dashboard I created using Shiny and Shiny Dashboard Libraries. I've done this dashboard for Normal and Exponential Distribution.
-# chess Dashboard
+# Chess Dashboard
 This dashboard is created using Tableau where I have used a chess dataset to analyze how the moves are in the chess board towards the win or lose or draw in a game based on the moves provides.
 It is quite a challenging dataset I tried my best to visualize it.
 
